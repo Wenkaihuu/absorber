@@ -76,8 +76,8 @@ for part in parts:
             noise_combT = np.concatenate(noise_combT)
             n = np.histogram(spec_comb,spec_edges)
             spectra = np.histogram(spec_comb,spec_edges,weights = noise_combT)
-            #spectra = spectra[0]/n[0]
-            spectra = spectra[0]
+            spectra = spectra[0]/n[0]
+            #spectra = spectra[0]
             spectra = spectra.tolist()
             spectra.reverse()
             sr_resultT[i][j] = np.array(spectra)
