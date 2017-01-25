@@ -1,0 +1,136 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{{Kanekar} et~al.}(2006)\citenamefont{{Kanekar},
+  {Subrahmanyan}, {Ellison}, {Lane}, and {Chengalur}}}]{2006MNRAS.370L..46K}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{{Kanekar}}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Subrahmanyan}}},
+  \bibinfo{author}{\bibfnamefont{S.~L.} \bibnamefont{{Ellison}}},
+  \bibinfo{author}{\bibfnamefont{W.~M.} \bibnamefont{{Lane}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{J.~N.}
+  \bibnamefont{{Chengalur}}}, \bibinfo{journal}{\mnras}
+  \textbf{\bibinfo{volume}{370}}, \bibinfo{pages}{L46} (\bibinfo{year}{2006}),
+  \eprint{astro-ph/0605346}.
+
+\bibitem[{\citenamefont{{Kanekar} et~al.}(2007)\citenamefont{{Kanekar},
+  {Chengalur}, and {Lane}}}]{2007MNRAS.375.1528K}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{{Kanekar}}},
+  \bibinfo{author}{\bibfnamefont{J.~N.} \bibnamefont{{Chengalur}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{W.~M.}
+  \bibnamefont{{Lane}}}, \bibinfo{journal}{\mnras}
+  \textbf{\bibinfo{volume}{375}}, \bibinfo{pages}{1528} (\bibinfo{year}{2007}),
+  \eprint{astro-ph/0701074}.
+
+\bibitem[{\citenamefont{{York} et~al.}(2007)\citenamefont{{York}, {Kanekar},
+  {Ellison}, and {Pettini}}}]{2007MNRAS.382L..53Y}
+\bibinfo{author}{\bibfnamefont{B.~A.} \bibnamefont{{York}}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{{Kanekar}}},
+  \bibinfo{author}{\bibfnamefont{S.~L.} \bibnamefont{{Ellison}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Pettini}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{382}},
+  \bibinfo{pages}{L53} (\bibinfo{year}{2007}), \eprint{0710.2899}.
+
+\bibitem[{\citenamefont{{Curran} et~al.}(2010)\citenamefont{{Curran},
+  {Tzanavaris}, {Darling}, {Whiting}, {Webb}, {Bignell}, {Athreya}, and
+  {Murphy}}}]{2010MNRAS.402...35C}
+\bibinfo{author}{\bibfnamefont{S.~J.} \bibnamefont{{Curran}}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{{Tzanavaris}}},
+  \bibinfo{author}{\bibfnamefont{J.~K.} \bibnamefont{{Darling}}},
+  \bibinfo{author}{\bibfnamefont{M.~T.} \bibnamefont{{Whiting}}},
+  \bibinfo{author}{\bibfnamefont{J.~K.} \bibnamefont{{Webb}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Bignell}}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Athreya}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.~T.}
+  \bibnamefont{{Murphy}}}, \bibinfo{journal}{\mnras}
+  \textbf{\bibinfo{volume}{402}}, \bibinfo{pages}{35} (\bibinfo{year}{2010}),
+  \eprint{0910.3742}.
+
+\bibitem[{\citenamefont{{Ger{\'e}b} et~al.}(2014)\citenamefont{{Ger{\'e}b},
+  {Morganti}, and {Oosterloo}}}]{2014A&A...569A..35G}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Ger{\'e}b}}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Morganti}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.~A.}
+  \bibnamefont{{Oosterloo}}}, \bibinfo{journal}{\aap}
+  \textbf{\bibinfo{volume}{569}}, \bibinfo{eid}{A35} (\bibinfo{year}{2014}),
+  \eprint{1407.1799}.
+
+\bibitem[{\citenamefont{{Borthakur} et~al.}(2011)\citenamefont{{Borthakur},
+  {Tripp}, {Yun}, {Bowen}, {Meiring}, {York}, and
+  {Momjian}}}]{2011ApJ...727...52B}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Borthakur}}},
+  \bibinfo{author}{\bibfnamefont{T.~M.} \bibnamefont{{Tripp}}},
+  \bibinfo{author}{\bibfnamefont{M.~S.} \bibnamefont{{Yun}}},
+  \bibinfo{author}{\bibfnamefont{D.~V.} \bibnamefont{{Bowen}}},
+  \bibinfo{author}{\bibfnamefont{J.~D.} \bibnamefont{{Meiring}}},
+  \bibinfo{author}{\bibfnamefont{D.~G.} \bibnamefont{{York}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{{Momjian}}},
+  \bibinfo{journal}{\apj} \textbf{\bibinfo{volume}{727}}, \bibinfo{eid}{52}
+  (\bibinfo{year}{2011}), \eprint{1007.3936}.
+
+\bibitem[{\citenamefont{{Ger{\'e}b} et~al.}(2015)\citenamefont{{Ger{\'e}b},
+  {Maccagni}, {Morganti}, and {Oosterloo}}}]{2015A&A...575A..44G}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Ger{\'e}b}}},
+  \bibinfo{author}{\bibfnamefont{F.~M.} \bibnamefont{{Maccagni}}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Morganti}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.~A.}
+  \bibnamefont{{Oosterloo}}}, \bibinfo{journal}{\aap}
+  \textbf{\bibinfo{volume}{575}}, \bibinfo{eid}{A44} (\bibinfo{year}{2015}),
+  \eprint{1411.0361}.
+
+\bibitem[{\citenamefont{{Prochaska} et~al.}(2005)\citenamefont{{Prochaska},
+  {Herbert-Fort}, and {Wolfe}}}]{2005ApJ...635..123P}
+\bibinfo{author}{\bibfnamefont{J.~X.} \bibnamefont{{Prochaska}}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Herbert-Fort}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.~M.}
+  \bibnamefont{{Wolfe}}}, \bibinfo{journal}{\apj}
+  \textbf{\bibinfo{volume}{635}}, \bibinfo{pages}{123} (\bibinfo{year}{2005}),
+  \eprint{astro-ph/0508361}.
+
+\bibitem[{\citenamefont{{Switzer} et~al.}(2013)\citenamefont{{Switzer},
+  {Masui}, {Bandura}, {Calin}, {Chang}, {Chen}, {Li}, {Liao}, {Natarajan},
+  {Pen} et~al.}}]{2013MNRAS.434L..46S}
+\bibinfo{author}{\bibfnamefont{E.~R.} \bibnamefont{{Switzer}}},
+  \bibinfo{author}{\bibfnamefont{K.~W.} \bibnamefont{{Masui}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Bandura}}},
+  \bibinfo{author}{\bibfnamefont{L.-M.} \bibnamefont{{Calin}}},
+  \bibinfo{author}{\bibfnamefont{T.-C.} \bibnamefont{{Chang}}},
+  \bibinfo{author}{\bibfnamefont{X.-L.} \bibnamefont{{Chen}}},
+  \bibinfo{author}{\bibfnamefont{Y.-C.} \bibnamefont{{Li}}},
+  \bibinfo{author}{\bibfnamefont{Y.-W.} \bibnamefont{{Liao}}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Natarajan}}},
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{\mnras}
+  \textbf{\bibinfo{volume}{434}}, \bibinfo{pages}{L46} (\bibinfo{year}{2013}),
+  \eprint{1304.3712}.
+
+\bibitem[{\citenamefont{{Masui} et~al.}(2013)\citenamefont{{Masui}, {Switzer},
+  {Banavar}, {Bandura}, {Blake}, {Calin}, {Chang}, {Chen}, {Li}, {Liao}
+  et~al.}}]{2013ApJ...763L..20M}
+\bibinfo{author}{\bibfnamefont{K.~W.} \bibnamefont{{Masui}}},
+  \bibinfo{author}{\bibfnamefont{E.~R.} \bibnamefont{{Switzer}}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{{Banavar}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Bandura}}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{{Blake}}},
+  \bibinfo{author}{\bibfnamefont{L.-M.} \bibnamefont{{Calin}}},
+  \bibinfo{author}{\bibfnamefont{T.-C.} \bibnamefont{{Chang}}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{{Chen}}},
+  \bibinfo{author}{\bibfnamefont{Y.-C.} \bibnamefont{{Li}}},
+  \bibinfo{author}{\bibfnamefont{Y.-W.} \bibnamefont{{Liao}}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{\apjl}
+  \textbf{\bibinfo{volume}{763}}, \bibinfo{eid}{L20} (\bibinfo{year}{2013}),
+  \eprint{1208.0331}.
+
+\end{thebibliography}
