@@ -1,0 +1,10 @@
+#ebb png/*.png
+
+latex GBT_absorber_proposal.tex
+bibtex GBT_absorber_proposal.aux
+latex GBT_absorber_proposal.tex
+latex GBT_absorber_proposal.tex
+
+dvipdfmx GBT_absorber_proposal.dvi
+
+open GBT_absorber_proposal.pdf
